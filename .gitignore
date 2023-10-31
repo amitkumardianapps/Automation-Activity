@@ -11,6 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
+Test-Automaton-Report.html
+vcs.xml
 
 ### Eclipse ###
 .apt_generated
